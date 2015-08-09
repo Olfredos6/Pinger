@@ -1,0 +1,6 @@
+c:\users\os6\documents\visual studio 2013\Projects\pinger\pinger\bin\Debug\pinger.exe.config
+c:\users\os6\documents\visual studio 2013\Projects\pinger\pinger\bin\Debug\pinger.exe
+c:\users\os6\documents\visual studio 2013\Projects\pinger\pinger\bin\Debug\pinger.pdb
+c:\users\os6\documents\visual studio 2013\Projects\pinger\pinger\obj\Debug\pinger.csprojResolveAssemblyReference.cache
+c:\users\os6\documents\visual studio 2013\Projects\pinger\pinger\obj\Debug\pinger.exe
+c:\users\os6\documents\visual studio 2013\Projects\pinger\pinger\obj\Debug\pinger.pdb
